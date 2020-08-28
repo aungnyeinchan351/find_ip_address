@@ -55,5 +55,14 @@ ip = socket.gethostname(host)
 #Print IP address
 print("IP address is ",ip)
 ```
+### Output
+
+The output of this program is 
+```
+IP address is  127.0.0.1
+```
+Follow me on[GitHub](https://GitHub.com/aungnyeinchan351)
+
+Follow me on [Facebook](https://facebook.com/zinyaw3063)
 
 
